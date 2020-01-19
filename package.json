@@ -1,0 +1,19 @@
+{
+  "name": "url_shortener_microservice",
+  "version": "1.0.0",
+  "description": "fcc api and micorservice projects",
+  "main": "server.js",
+  "author": "abraham anak agung",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.1",
+    "mongoose": "^5.8.9",
+    "sha1": "^1.1.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
